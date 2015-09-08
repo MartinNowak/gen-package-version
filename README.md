@@ -121,9 +121,6 @@ In your ```dub.json``` (if using DUB):
 ```json
 "dependencies": {
 	"gen-package-version": "~>1.0.3"
-},
-"subConfigurations": {
-	"gen-package-version": "library"
 }
 ```
 
